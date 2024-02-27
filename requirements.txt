@@ -12,3 +12,4 @@ qtfaststart
 cleanit
 plexapi
 setuptools
+ffsubsync
